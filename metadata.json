@@ -1,0 +1,8 @@
+{
+  "name": "Aabest Services - Transport, Logistics \u0026 Tema Harbour Fleet Portal",
+  "description": "Corporate website and Tema Harbour Container Evacuation Truck Driver \u0026 Fleet Registration Portal for Aabest Services in Ghana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

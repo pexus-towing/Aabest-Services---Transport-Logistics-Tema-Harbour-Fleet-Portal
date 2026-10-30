@@ -1,0 +1,1011 @@
+Build a complete, elegant, modern, highly professional, responsive and conversion-focused corporate website for AABEST SERVICES (aabestservices.com), a Ghanaian company providing transportation, logistics, truck hire and IT services.
+
+The website must establish Aabest Services as a credible, reliable and professional service provider in Ghana.
+
+The website must include a special, dedicated project feature titled:
+
+TEMA HARBOUR CONTAINER TRUCK DRIVER & FLEET REGISTRATION PORTAL
+
+This portal will be used by Aabest Services to identify, register, organize and onboard as many qualified container truck owners, transport companies, truck operators and drivers as possible for the container evacuation operations at Tema Harbour.
+
+The registration portal is a major feature of the website and must receive considerable attention in the website's information architecture, navigation, homepage design and user experience.
+
+IMPORTANT DEVELOPMENT RESTRICTIONS
+
+Build the frontend only.
+
+Do not create a database.
+
+Do not create a backend.
+
+Do not integrate AI or AI-powered features.
+
+Do not introduce artificial intelligence chatbots, AI assistants or automated AI recommendations.
+
+Do not invent project approvals, GPHA endorsements, partnerships, testimonials, statistics or operational guarantees.
+
+Do not create fake registration success claims or pretend that information has been transmitted to a server.
+
+Use realistic sample data only where necessary to demonstrate the interface, and clearly identify it as demonstration data.
+
+Structure the frontend cleanly so that a backend can be integrated in the future without rebuilding the entire interface.
+
+The website must look and function like a professionally developed production website, even though its registration functionality is currently frontend-only.
+
+2. COMPANY SERVICES
+
+Create dedicated service sections and pages for the following six services:
+
+A. Tow Truck Services
+
+Provide professional towing solutions for vehicles that have broken down, experienced accidents or require transportation from one location to another.
+
+B. Container Truck Services
+
+Provide container transportation and haulage solutions, including container movement, port-related transportation and logistics support.
+
+C. Lowbed Truck Services
+
+Provide transportation solutions for heavy machinery, construction equipment, industrial equipment and oversized loads.
+
+D. Tipper Truck Services
+
+Provide tipper truck transportation and hauling services for sand, gravel, stones, construction materials and other suitable bulk materials.
+
+E. IT Services
+
+Provide professional information technology solutions to individuals, businesses and organizations.
+
+F. Car Rental Services
+
+Provide vehicle rental solutions for individuals, corporate clients, business travelers and other customers.
+
+Each service must have:
+
+A professional service introduction.
+
+Relevant high-quality imagery.
+
+A detailed description.
+
+Key benefits.
+
+A clear call-to-action.
+
+A contact or service inquiry option.
+
+Do not invent specific service packages, prices, locations or guarantees that have not been supplied.
+
+3. WEBSITE DESIGN DIRECTION
+
+Create a premium corporate design that communicates professionalism, reliability, operational competence and trust.
+
+The visual direction should combine:
+
+Modern corporate aesthetics.
+
+Premium transportation and logistics branding.
+
+Clean typography.
+
+Strong visual hierarchy.
+
+Professional photography of trucks, containers, port operations, heavy equipment and vehicles.
+
+Carefully balanced whitespace.
+
+Refined cards and content sections.
+
+Smooth, subtle animations.
+
+Consistent iconography.
+
+Clear calls-to-action.
+
+Avoid generic AI-generated website layouts, excessive gradients, unnecessary animations, oversized decorative elements and repetitive card sections.
+
+The design must feel like a professionally commissioned logistics and transportation company website.
+
+Use a consistent corporate colour system. Choose a sophisticated navy blue, white and restrained orange or gold accent palette, unless an existing Aabest Services brand identity is supplied.
+
+Ensure excellent responsiveness across:
+
+Desktop computers.
+
+Laptops.
+
+Tablets.
+
+Mobile phones.
+
+The mobile experience is particularly important because truck owners and drivers may register using their smartphones.
+
+4. WEBSITE NAVIGATION
+
+Create a professional navigation bar with the following structure:
+
+Main Navigation
+
+Home
+
+About Us
+
+Our Services
+
+Tow Truck Services
+
+Container Truck Services
+
+Lowbed Truck Services
+
+Tipper Truck Services
+
+IT Services
+
+Car Rental Services
+
+Tema Harbour Registration
+
+Contact Us
+
+Add a prominent navigation CTA:
+
+REGISTER NOW
+
+The Tema Harbour Registration navigation item should be visually distinguishable from ordinary service pages.
+
+On mobile, provide an accessible navigation menu with a prominent registration button.
+
+5. HOMEPAGE STRUCTURE
+
+Design the homepage using the following sections.
+
+Section 1: Hero Section
+
+Create a powerful full-width hero section with a professional transportation/logistics background image.
+
+Suggested headline:
+
+Reliable Transport, Logistics & Technology Solutions in Ghana.
+
+Supporting text:
+
+Aabest Services delivers dependable transportation, logistics and technology solutions designed to support individuals, businesses and organizations across Ghana.
+
+Primary CTA: EXPLORE OUR SERVICES
+
+Secondary CTA: CONTACT US
+
+Include a visually prominent project announcement or banner:
+
+CONTAINER TRUCK OWNERS & DRIVERS WANTED – TEMA HARBOUR EVACUATION OPERATIONS
+
+Supporting text:
+
+Are you a container truck owner, transport company or qualified container truck driver? Register your details and fleet information for consideration in the Tema Harbour container evacuation onboarding process.
+
+CTA: REGISTER YOUR FLEET / DRIVER
+
+Do not suggest that registration automatically guarantees employment, contracts, deployment or GPHA clearance.
+
+Section 2: About Aabest Services
+
+Introduce the company as a Ghanaian service provider operating across transportation, logistics and IT.
+
+Include an About Us button.
+
+Section 3: Our Core Services
+
+Display the six company services in an elegant visual layout.
+
+Each service should have an image, title, short description and Learn More link.
+
+Section 4: Tema Harbour Project Registration Feature
+
+This section must be visually prominent.
+
+Headline:
+
+Join the Tema Harbour Container Evacuation Registration Programme
+
+Description:
+
+Aabest Services is coordinating the collection and organization of information from container truck owners, transport enterprises and qualified drivers interested in participating in the Tema Harbour container evacuation operations.
+
+We invite eligible truck owners, fleet operators and drivers to submit their details and supporting documentation for onboarding consideration.
+
+Display three registration categories:
+
+Truck Owners & Transport Companies
+
+Independent Container Truck Owners
+
+Container Truck Drivers
+
+CTA: START REGISTRATION
+
+Section 5: Why Choose Aabest Services?
+
+Use carefully worded value propositions such as:
+
+Multiple Transportation Solutions.
+
+Logistics and Fleet Support.
+
+Professional Service Approach.
+
+Diverse Service Capabilities.
+
+Technology-Driven Business Solutions.
+
+Do not invent awards, certifications or performance statistics.
+
+Section 6: Contact Section
+
+Provide contact information placeholders that can be populated with verified company details.
+
+Include an inquiry form.
+
+Section 7: Professional Footer
+
+Include:
+
+Company logo.
+
+Short company description.
+
+Quick links.
+
+All six services.
+
+Tema Harbour Registration.
+
+Contact information.
+
+Social media links.
+
+Privacy Policy.
+
+Terms and Conditions.
+
+Copyright notice.
+
+6. SPECIAL FEATURE: TEMA HARBOUR REGISTRATION PORTAL
+
+This is one of the most important parts of the entire website.
+
+Create a dedicated registration portal with its own landing page and multi-step registration experience.
+
+Suggested URL:
+
+/tema-harbour-registration
+
+Suggested portal title:
+
+TEMA HARBOUR CONTAINER EVACUATION OPERATIONS
+
+Subtitle:
+
+Truck Owner, Fleet & Driver Registration Portal
+
+The portal must look professional, secure, organized and trustworthy.
+
+It should communicate that registration is intended to collect information for fleet identification, document verification and onboarding consideration.
+
+6.1 Registration Landing Page
+
+Display an introductory section explaining:
+
+The purpose of the registration exercise.
+
+Who is eligible to register.
+
+The information required.
+
+Mandatory supporting documentation.
+
+The registration and vetting stages.
+
+The importance of providing accurate information.
+
+Provide three clear entry options:
+
+A. Register as a Truck Owner / Enterprise.
+
+B. Register as an Independent Truck Owner.
+
+C. Register as a Driver.
+
+Allow truck owners to register multiple trucks and associate their assigned drivers with the relevant vehicles.
+
+Allow drivers to register independently, but make it clear that independent driver registration does not automatically constitute fleet approval or deployment.
+
+7. MULTI-STEP FLEET REGISTRATION FORM
+
+Create a professional multi-step form based primarily on the supplied document:
+
+FLEET ONBOARDING & ASSET INTAKE FORM – Container Evacuation Operations, Tema Harbour.
+
+Preserve the document's actual information requirements.
+
+Use a progress indicator showing the current registration stage.
+
+Include Previous, Save Draft (demonstration only), Continue and Submit buttons.
+
+STEP 1: REGISTRATION CATEGORY
+
+Ask the applicant to select:
+
+Truck Owner / Individual.
+
+Transport Company / Enterprise.
+
+Independent Container Truck Owner.
+
+Driver Registration Only.
+
+STEP 2: TRUCK OWNER / ENTERPRISE DETAILS
+
+Include the following fields from the supplied intake form:
+
+Full Legal Name (Individual / Enterprise).
+
+Primary Contact Person.
+
+Primary Phone Number.
+
+WhatsApp Number, if different.
+
+Alternative Phone Number.
+
+Email Address.
+
+Physical / Office Address.
+
+Allow users to indicate whether the primary phone number is also their WhatsApp number.
+
+STEP 3: TRUCK REGISTRATION DETAILS
+
+This section must accommodate multiple trucks.
+
+Use a dynamic fleet registration interface.
+
+The original intake document provides spaces for up to 50 truck registration numbers.
+
+Reproduce this capability digitally.
+
+For each truck, provide:
+
+Truck Registration Number – Tractor Head.
+
+Flatbed Trailer Registration Number.
+
+Truck/Asset identification reference.
+
+Assigned Driver(s).
+
+Allow users to:
+
+Add another truck.
+
+Remove an unsubmitted truck entry.
+
+Edit truck details.
+
+View all added vehicles.
+
+Register up to 50 truck entries in the form.
+
+Do not require users to enter all 50 vehicles. They should be able to register one or more trucks.
+
+Validate registration number fields and prevent accidental duplicate entries within the same registration.
+
+Clearly distinguish tractor head registration numbers from flatbed trailer registration numbers.
+
+STEP 4: DRIVER INFORMATION
+
+The supplied documents require valid Ghana Card copies and driver's licenses for all assigned drivers.
+
+Create a driver information form to associate each driver with a truck.
+
+For every assigned driver, provide:
+
+Full Name.
+
+Primary Phone Number.
+
+Alternative Phone Number.
+
+Email Address (optional).
+
+Ghana Card Number.
+
+Driver's License Number.
+
+Driver's License Class.
+
+Driver's License Expiry Date.
+
+Assigned Truck Registration Number.
+
+Allow multiple drivers to be associated with the relevant truck.
+
+Include an option to add another driver.
+
+Also allow independent drivers to register without immediately selecting a truck, subject to later verification and fleet association.
+
+Clearly mark which fields are mandatory and which are optional.
+
+These individual driver information fields are additional operational fields introduced to support the identification and association of the drivers required by the supplied documentation.
+
+STEP 5: MANDATORY DOCUMENT UPLOADS
+
+Reproduce the mandatory attachments checklist from the original Fleet Onboarding & Asset Intake Form.
+
+Create a professional document upload interface.
+
+The following documents must be represented:
+
+A. Ghana Card Copies
+
+Valid National Identification Card copies for all assigned drivers.
+
+B. Driver's Licenses
+
+Valid Driver's Licenses of the required class for all assigned drivers.
+
+C. Vehicle Registration Logbooks
+
+Copies of registration books for each tractor head and flatbed trailer.
+
+D. DVLA Roadworthiness Certificates
+
+Valid Ghana Driver and Vehicle Licensing Authority roadworthiness stickers/certificates.
+
+E. Comprehensive Insurance Certificates / Stickers
+
+Proof of active comprehensive insurance coverage for all deployed units.
+
+The upload interface should allow users to upload multiple files and associate each document with the relevant driver or truck.
+
+Accept appropriate document formats such as:
+
+PDF.
+
+JPG.
+
+JPEG.
+
+PNG.
+
+Display:
+
+Document name.
+
+Associated truck or driver.
+
+File name.
+
+Upload status.
+
+Replace document option.
+
+Remove document option.
+
+Implement frontend file type and file size validation.
+
+Do not falsely display a document as verified simply because it has been selected.
+
+Use these document statuses:
+
+Not Uploaded.
+
+Selected – Awaiting Submission.
+
+Submitted – Awaiting Verification.
+
+Verified (demonstration status only).
+
+Important: The frontend must not claim that documents have been securely transmitted or stored. Actual upload, storage and verification require a future backend.
+
+STEP 6: OWNER DECLARATION
+
+Reproduce the declaration in the supplied document:
+
+"I hereby declare that the information provided in this intake form is complete and accurate, and that all attached compliance documents are valid for the listed assets and drivers."
+
+Provide the following fields:
+
+Authorized Representative Name.
+
+Position / Title.
+
+Electronic Signature (typed full legal name).
+
+Date (DD/MM/YYYY).
+
+Include a mandatory checkbox confirming the declaration.
+
+8. CRITICAL FEATURE: NON-CIRCUMVENTION & ANTI-BYPASS PROTECTION
+
+This feature is extremely important to Aabest Services' business interests.
+
+The project opportunity is being coordinated through an intermediary. The registration process must clearly establish the relationship between the applicant, the coordinating party and the project opportunity.
+
+The supplied Truck Owner & Contractor Agreement contains a specific Non-Circumvention clause.
+
+It states that the Truck Owner acknowledges that the project opportunity was facilitated exclusively through Sleek Investment Consult and agrees not to bypass the Consultant by directly negotiating with project parties without prior written consent.
+
+Use the actual agreement as the source for the legal wording.
+
+IMPORTANT: Do not silently substitute Aabest Services for Sleek Investment Consult in the legal agreement. The contracting party and Aabest Services' role must be confirmed before any agreement is presented as legally binding.
+
+8.1 Mandatory Non-Circumvention Agreement
+
+Before final submission, display a dedicated agreement acceptance page.
+
+Use a professional legal document presentation layout.
+
+The agreement should establish:
+
+The applicant acknowledges the introduction to the project through the designated coordinating party.
+
+The applicant agrees not to circumvent or bypass the designated Consultant or authorized project coordinator.
+
+The applicant must not use project contacts, introductions, information or opportunities obtained through the registration process to negotiate directly with project parties in a manner that excludes the designated Consultant.
+
+All project-related negotiations, commercial discussions and operational arrangements arising from this introduction must follow the authorized coordination process.
+
+The applicant must not introduce associated companies, agents, representatives or third parties as a means of circumventing the agreed arrangement.
+
+Any exception must receive prior written authorization from the designated Consultant.
+
+The applicant acknowledges that submission of registration details does not automatically guarantee approval, deployment or a contract.
+
+The above must be treated as proposed website agreement content requiring legal review and approval. Do not present it as a verbatim reproduction of the supplied agreement.
+
+8.2 Applicant Agreement Acceptance
+
+Require the applicant to:
+
+Read the agreement.
+
+Scroll through the entire agreement.
+
+Tick a mandatory acceptance checkbox.
+
+Enter their full legal name.
+
+Select their capacity (Truck Owner, Enterprise Representative or Authorized Representative).
+
+Provide their electronic signature by typing their full legal name.
+
+Enter the date.
+
+Confirm that they understand the non-circumvention obligation.
+
+The checkbox must be unchecked by default.
+
+Do not allow the demonstration form to proceed without the required acknowledgement.
+
+8.3 Individual Driver Declaration
+
+Provide a separate acknowledgement for drivers.
+
+It should explain that the driver is registering through the designated coordinating channel and must not use information or introductions obtained through the registration process to improperly bypass the authorized coordinator.
+
+Do not automatically make a driver personally liable for obligations that legally belong to the truck owner or enterprise.
+
+Clearly distinguish the driver's acknowledgement from the Truck Owner & Contractor Agreement.
+
+8.4 Registration Reference and Tracking
+
+Generate a frontend demonstration registration reference when a user completes the form.
+
+Use a format such as:
+
+AAB-TH-2026-000001
+
+The reference must be clearly identified as a demonstration reference until a backend registration system is implemented.
+
+Display it on the submission confirmation screen.
+
+Provide an option to copy or print the registration summary.
+
+Do not pretend that a reference generated inside a browser is a permanent, centrally registered record.
+
+8.5 Controlled Project Information
+
+The registration portal must not publicly expose sensitive project contact information, internal contact lists or confidential coordination details.
+
+Direct users to the official Aabest Services contact channels for project-related inquiries.
+
+Do not publish direct project contact details without authorization.
+
+8.6 Important Security Limitation
+
+Because this is a frontend-only implementation, do not claim that JavaScript, browser storage, hidden fields, frontend validation or a checkbox can prevent a determined user from bypassing the coordinator.
+
+The interface should demonstrate the intended registration and contractual controls, but actual enforcement will require a secure backend, authenticated records, document storage, audit logs and legally reviewed agreements.
+
+Do not build fake security features.
+
+9. PROJECT INFORMATION PAGE
+
+Create a separate page explaining the Tema Harbour container evacuation opportunity.
+
+Use only information contained in the supplied agreement, and clearly identify commercial details as subject to confirmation and execution of the relevant agreement.
+
+Include the following information:
+
+Project Purpose
+
+Deployment and evacuation of empty containers within Tema Port.
+
+Operational Routes
+
+Route A: Meridian Port Services (MPS) to Golden Jubilee Terminal – approximately 0.75 km.
+
+Route B: MPS Container Depot to Golden Jubilee Terminal – approximately 0.35 km.
+
+Route C: Main Port Transit Terminal to Afrique Royal Empty Yard – approximately 0.50 km.
+
+Fleet Requirements
+
+The agreement identifies flatbed trucks as the assets dedicated to the empty container evacuation operations.
+
+Operational Structure
+
+The agreement describes a three-driver rotation across 8-hour shifts.
+
+The Truck Owner provides one qualified driver per truck, while the remaining two drivers are assigned and compensated by GPHA.
+
+A mandatory one-hour inspection/cooling break is observed between handovers.
+
+Commercial Information
+
+The supplied agreement specifies:
+
+Gross daily hire rate: GHS 3,500.00 net per deployed flatbed per day.
+
+Operational target: Minimum 14 trips per flatbed per day.
+
+Fuel investment: Initial or ongoing fuel funded by truck owners for operations from the first day to the latest 12 days is to be calculated, reconciled and reimbursed from operations revenue.
+
+Settlement: Bi-weekly payouts through direct bank transfer or bank draft.
+
+Contract term: Five years, subject to initial performance review and operational requirements.
+
+Clearly label these figures and conditions as terms stated in the supplied draft agreement, not independently verified current offers or guaranteed payments.
+
+Maintenance Responsibilities
+
+The agreement specifies that the truck owner retains financial responsibility for general servicing, major mechanical repairs, tire maintenance, preventive care, valid roadworthiness certificates and comprehensive vehicle insurance.
+
+Onboarding Process
+
+Present the four stages:
+
+Asset Vetting.
+
+Personnel Vetting.
+
+GPHA Licensing.
+
+Site Integration.
+
+Explain each stage using the wording and meaning of the agreement.
+
+Do not promise that registration alone constitutes GPHA clearance.
+
+10. REGISTRATION DASHBOARD – FRONTEND DEMONSTRATION
+
+Create a professional dashboard interface to demonstrate how Aabest Services could manage registrations in the future.
+
+This is a frontend prototype only.
+
+Include:
+
+Total registered applicants (demonstration data).
+
+Total truck owners.
+
+Total registered drivers.
+
+Total registered trucks.
+
+Pending document submissions.
+
+Completed registration forms.
+
+Registration status.
+
+Create a registration management table with:
+
+Registration reference.
+
+Applicant name.
+
+Registration category.
+
+Phone number.
+
+Number of trucks.
+
+Number of drivers.
+
+Submission date.
+
+Registration status.
+
+Action button.
+
+Provide a detailed registration view showing all submitted information, fleet records, associated drivers and document checklist.
+
+Include visual status labels:
+
+Draft.
+
+Awaiting Submission.
+
+Submitted.
+
+Under Review.
+
+Documents Incomplete.
+
+Approved (demonstration only).
+
+Rejected (demonstration only).
+
+Allow filtering and searching within the demonstration data.
+
+IMPORTANT:
+
+Do not connect this dashboard to an actual database or imply that it is collecting registrations from the public.
+
+Use clearly labeled demonstration records and frontend state only.
+
+11. REGISTRATION CONFIRMATION PAGE
+
+After the user completes the frontend demonstration registration, show a professional confirmation screen.
+
+Suggested heading:
+
+REGISTRATION FORM COMPLETED
+
+Supporting text:
+
+Your registration information has been completed in this demonstration interface.
+
+Display:
+
+Applicant's name.
+
+Registration category.
+
+Registration reference.
+
+Number of trucks.
+
+Number of associated drivers.
+
+Declaration acknowledgement.
+
+Include buttons:
+
+View Registration Summary.
+
+Print Registration Summary.
+
+Copy Registration Reference.
+
+Return to Homepage.
+
+Clearly communicate that no information has been transmitted or permanently registered because the current website version does not have a connected backend.
+
+Do not display fake email or SMS confirmation.
+
+12. CONTACT PAGE
+
+Create a professional contact page with:
+
+Company contact information placeholders.
+
+Office address placeholder.
+
+Telephone placeholder.
+
+Email placeholder.
+
+Business hours placeholder.
+
+Contact inquiry form.
+
+Location/map placeholder.
+
+Add a dedicated project inquiry section directing interested truck owners and drivers to the Tema Harbour Registration Portal.
+
+Do not invent contact details.
+
+13. FRONTEND FUNCTIONALITY REQUIREMENTS
+
+Implement all user-facing interactions using frontend technologies.
+
+Recommended stack:
+
+React.
+
+TypeScript.
+
+Tailwind CSS.
+
+Reusable component architecture.
+
+React Router or equivalent routing solution.
+
+The application must include:
+
+Functional navigation.
+
+Responsive layouts.
+
+Multi-step registration forms.
+
+Dynamic truck registration entries.
+
+Dynamic driver registration entries.
+
+Document selection and upload previews.
+
+File type and size validation.
+
+Required-field validation.
+
+Duplicate truck registration checks within a form.
+
+Mandatory declaration checkboxes.
+
+Agreement acceptance controls.
+
+Electronic signature input.
+
+Registration progress indicators.
+
+Registration summary generation.
+
+Demonstration registration reference generation.
+
+Dashboard demonstration data.
+
+Search and filtering.
+
+Print-friendly registration summaries.
+
+Accessible form labels and error messages.
+
+Use local component state for demonstration interactions.
+
+If browser local storage is used for temporary demonstration convenience, clearly explain that it is not a secure or permanent registration database.
+
+Do not store actual Ghana Card images, identity numbers or sensitive documents in browser local storage.
+
+Do not implement fake API calls, fake database operations or fake upload confirmations.
+
+14. PRIVACY AND DATA PROTECTION
+
+The registration process involves sensitive personal information, including Ghana Card details, driver's licence information, contact information and identification documents.
+
+Create a professional Privacy Policy page and registration consent section.
+
+Include:
+
+The identity of the organization responsible for collecting information.
+
+The purpose of collecting applicant and fleet information.
+
+The categories of information being collected.
+
+The intended recipients of the information.
+
+How applicants can request access or correction.
+
+How long information will be retained.
+
+How applicants can raise privacy concerns.
+
+Do not invent a privacy contact person or claim legal compliance that has not been verified.
+
+The actual registration system must later be implemented with appropriate security, access control, encryption, secure document storage and applicable Ghanaian data protection requirements.
+
+For the frontend prototype, use sample information only.
+
+15. USER EXPERIENCE AND DESIGN QUALITY
+
+The registration process must be exceptionally easy to understand.
+
+Many applicants may be truck drivers and fleet operators who are not particularly familiar with complicated online forms.
+
+Therefore:
+
+Use straightforward English.
+
+Avoid unnecessary technical language.
+
+Make the registration steps obvious.
+
+Use large, readable form labels.
+
+Provide short explanations under important fields.
+
+Clearly identify mandatory fields.
+
+Make adding additional trucks and drivers easy.
+
+Display clear validation errors.
+
+Provide a visible progress indicator.
+
+Ensure that mobile form controls are easy to use.
+
+Avoid overwhelming users with all registration fields on one screen.
+
+Use a professional step-by-step process rather than one extremely long form.
+
+16. FINAL WEBSITE QUALITY REQUIREMENTS
+
+The completed website must:
+
+Have a consistent corporate identity.
+
+Have excellent desktop and mobile responsiveness.
+
+Load efficiently.
+
+Use optimized images.
+
+Have clean and reusable frontend code.
+
+Use proper page titles and SEO metadata.
+
+Have accessible navigation and form controls.
+
+Have consistent typography and spacing.
+
+Avoid broken links and non-functional buttons.
+
+Avoid placeholder text such as Lorem Ipsum.
+
+Clearly separate the company's six services from the special Tema Harbour registration project.
+
+Maintain a professional and credible corporate image.
+
+All pages and components must be implemented, not merely represented as static screenshots.
+
+FINAL DEVELOPMENT PRIORITIES
+
+Prioritize the following in this order:
+
+Professional Aabest Services corporate website.
+
+Dedicated Tema Harbour project registration landing page.
+
+Complete multi-step fleet and truck owner registration form.
+
+Multiple truck and driver registration capability.
+
+Mandatory document checklist and upload interface.
+
+Non-circumvention agreement and applicant acknowledgement.
+
+Independent driver registration.
+
+Registration confirmation and printable summary.
+
+Frontend demonstration management dashboard.
+
+All remaining company service pages and contact sections.
+
+MOST IMPORTANT: The Tema Harbour registration portal must be a central, highly polished feature of the website. It must be designed around the actual information requirements of the two supplied documents. Do not omit important fields, documents, contractual acknowledgements or fleet details.
+
+Build the complete frontend as a cohesive, production-quality website, while keeping all backend-dependent functionality clearly identified as not yet connected.
